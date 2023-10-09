@@ -2,12 +2,6 @@
 
 This Python script scrapes and analyzes housing data for the Hayward city area. It provides insights into popular house types, styles, and the relationship between sold prices and square footage.
 
-## Usage
-
-1. Install required libraries.
-2. Ensure you have the `web_Scraping.py` module.
-3. Run the script to perform web scraping and analysis.
-
 ## Dependencies
 
 - `urllib`, `BeautifulSoup`, `pandas` for data handling.
